@@ -1,1 +1,1 @@
-SimpleCalculator - Making of a simple calculator using Kotlin
+#SimpleCalculator - Making of a simple calculator using Kotlin
